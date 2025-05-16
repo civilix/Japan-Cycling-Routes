@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+     creator="KMLtoGPX"
+     xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Auxiliary trunk route (C20)</name>
+    <desc>補助幹線ルート(C20)</desc>
+    <bounds minlat="34.58358472222222" minlon="135.75050444444443" maxlat="34.58389277777778" maxlon="135.75564111111112"/>
+  </metadata>
+  <trk>
+    <name>Auxiliary trunk route (C20)</name>
+    <trkseg>
+<trkpt lat="34.58389277777778" lon="135.75051972222224">
+<ele>44</ele>
+</trkpt>
+<trkpt lat="34.583849444444446" lon="135.75050444444443">
+<ele>44</ele>
+</trkpt>
+<trkpt lat="34.58380944444445" lon="135.75090833333334">
+<ele>44</ele>
+</trkpt>
+<trkpt lat="34.583758333333336" lon="135.75134333333332">
+<ele>44</ele>
+</trkpt>
+<trkpt lat="34.583728055555554" lon="135.75157222222222">
+<ele>44</ele>
+</trkpt>
+<trkpt lat="34.583686666666665" lon="135.7519225">
+<ele>44</ele>
+</trkpt>
+<trkpt lat="34.58364111111111" lon="135.75237277777777">
+<ele>43</ele>
+</trkpt>
+<trkpt lat="34.58363583333333" lon="135.7526472222222">
+<ele>43</ele>
+</trkpt>
+<trkpt lat="34.58363583333333" lon="135.7532811111111">
+<ele>43</ele>
+</trkpt>
+<trkpt lat="34.58361527777778" lon="135.75402861111112">
+<ele>43</ele>
+</trkpt>
+<trkpt lat="34.58361527777778" lon="135.75423472222224">
+<ele>43</ele>
+</trkpt>
+<trkpt lat="34.58361527777778" lon="135.75430305555557">
+<ele>43</ele>
+</trkpt>
+<trkpt lat="34.58359027777778" lon="135.75484444444444">
+<ele>43</ele>
+</trkpt>
+<trkpt lat="34.58358472222222" lon="135.7550963888889">
+<ele>43</ele>
+</trkpt>
+<trkpt lat="34.58358472222222" lon="135.7552797222222">
+<ele>43</ele>
+</trkpt>
+<trkpt lat="34.58361083333333" lon="135.75547833333334">
+<ele>43</ele>
+</trkpt>
+<trkpt lat="34.58365083333333" lon="135.75560833333333">
+<ele>44</ele>
+</trkpt>
+<trkpt lat="34.583662777777775" lon="135.75564111111112">
+<ele>44</ele>
+</trkpt>
+    </trkseg>
+  </trk>
+</gpx>
