@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+     creator="KMLtoGPX"
+     xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Sekikawa Cycling Course</name>
+    <desc>関川サイクリングコース</desc>
+    <bounds minlat="33.96961527777778" minlon="133.4301863888889" maxlat="33.97369833333333" maxlon="133.43442083333332"/>
+  </metadata>
+  <trk>
+    <name>Sekikawa Cycling Course</name>
+    <trkseg>
+<trkpt lat="33.97369833333333" lon="133.43442083333332">
+<ele>5</ele>
+</trkpt>
+<trkpt lat="33.97349361111111" lon="133.4341738888889">
+<ele>5</ele>
+</trkpt>
+<trkpt lat="33.97349361111111" lon="133.4341738888889">
+<ele>5</ele>
+</trkpt>
+<trkpt lat="33.97338027777778" lon="133.43420472222223">
+<ele>5</ele>
+</trkpt>
+<trkpt lat="33.97338027777778" lon="133.43420472222223">
+<ele>5</ele>
+</trkpt>
+<trkpt lat="33.97325333333333" lon="133.43414305555555">
+<ele>5</ele>
+</trkpt>
+<trkpt lat="33.97325333333333" lon="133.43414305555555">
+<ele>5</ele>
+</trkpt>
+<trkpt lat="33.97311333333333" lon="133.43406">
+<ele>5</ele>
+</trkpt>
+<trkpt lat="33.97311333333333" lon="133.43406">
+<ele>5</ele>
+</trkpt>
+<trkpt lat="33.972993055555555" lon="133.43392333333333">
+<ele>5</ele>
+</trkpt>
+<trkpt lat="33.972993055555555" lon="133.43392333333333">
+<ele>5</ele>
+</trkpt>
+<trkpt lat="33.96968" lon="133.43025333333333">
+<ele>9</ele>
+</trkpt>
+<trkpt lat="33.96968" lon="133.43025333333333">
+<ele>9</ele>
+</trkpt>
+<trkpt lat="33.96961527777778" lon="133.4301863888889">
+<ele>9</ele>
+</trkpt>
+    </trkseg>
+  </trk>
+</gpx>
